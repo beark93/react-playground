@@ -1,0 +1,22 @@
+.App .content {
+  margin: 20px auto;
+  width: 90%;
+  max-width: 1000px;
+  min-height: 70vh;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.App .content .icon {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  background-color: #ddd;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 80px;
+  margin: 10px;
+  cursor: pointer;
+}
